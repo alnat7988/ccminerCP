@@ -1,13 +1,3 @@
-# Nevermore miner
-
-Quoth the Raven(coin), "Nevermore."
-
-An optimized fork of ccminer developed specially for x16r.
-
-Based on Christian Buchner's &amp; Christian H.'s CUDA project, no longer active on github since 2014.
-
-Check the [README.txt](README.txt) for the additions
-
 
 ## Donation Addresses
 
